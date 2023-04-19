@@ -4,6 +4,7 @@ public class Arraytest {
 			public static void main(String[] args)
 			{
 				System.out.println("The numbers of multiples of 3,4,5 b/w 20&40 are");
+				int a[]=new int[30];
 				int c1=0,c2=0,c3=0;
 		        for(int i=20;i<=40;i++)
 		        {
